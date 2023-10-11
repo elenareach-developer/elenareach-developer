@@ -163,7 +163,7 @@
   </tr>
   <tr>
     <td>
-    <p style="color: red">Relvise</p>
+    <p style="color: red">Portfolio</p>
     <p> <strong>Tools: vanilla JavaScript, pure HTML/CSS CSS-Flexbox, CSS-Variables</strong>
       </p>
     <p>The "Samantha He - Software Developer Portfolio" is a comprehensive online showcase that provides insight into Samantha He's professional journey as a software developer.</p>
