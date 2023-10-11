@@ -186,11 +186,11 @@
 
 <details>
  <summary> <b>click here</b> </summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elenareach&show_icons=true&locale=en&layout=compact" alt="elenareach" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elenareach-developer&show_icons=true&locale=en&layout=compact" alt="elenareach" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elenareach&show_icons=true&locale=en" alt="elenareach" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elenareach-developer&show_icons=true&locale=en" alt="elenareach" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elenareach&" alt="elenareach" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elenareach-developer&" alt="elenareach" /></p>
  </details>
 
  <!-- <details>
