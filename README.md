@@ -44,8 +44,10 @@
     <p style="color: red"> Searching App using Elastic Search</p>
     <p> <strong>Tools: Express.js, vanilla.js, Elastic Search, React.js</strong>
       </p>
-<p>My application uses a Station model, providing CRUD operations, and is connected to both MongoDB and Elasticsearch.</p>
-<p>It also features a "Search as You Type" functionality for seamless search experiences, enhancing user interactions.</p>
+<p>My application leverages a robust Station model with full CRUD capabilities, tightly integrated with both MongoDB and Elasticsearch.
+It also boasts a sophisticated "Search as You Type" feature to provide users with real-time, interactive search experiences.</p>
+<p>Through this combination of features, my app ensures seamless data management and enhanced user interactions.</p>
+
     </td>
   </tr>
 </table>
