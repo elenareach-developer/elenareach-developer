@@ -33,13 +33,13 @@
 <img title="NodeJS" src="./assets/Node.js_logo.svg" alt="NodeJs" height="40"/>
 <img title="NodeJS+Express" src="./assets/Expressjs.svg" alt="NodeJs+Express" height="40"/>
 <img title="Python" src="./assets/python.png" alt="Python" height="40"/>
-<img title="Python+Flask" src="https://en.wikipedia.org/wiki/Flask_%28web_framework%29#/media/File:Flask_logo.svg" alt="Python
+<img title="Python+Flask" src="./assets/flask.png" alt="Python
 +Flask" height="40"/>
 </p>
 <p> 
 <img title="MySQL" src="./assets/MySQL.png" alt="MySQL" height="40"/>
-<img title="PostgressSQL" src="./assets/postgressSQL.png" alt="PostgressSQL"  height="40"/>
-<img title="MongoDB" src="./assets/mongoDB.png" alt="MongoDB" height="40"/>
+<img title="PostgressSQL" src="./assets/postgressSQL.png" alt="PostgressSQL"  height="50"/>
+<img title="MongoDB" src="./assets/mongoDB.png" alt="MongoDB" height="50"/>
 </p>
 
 ---
