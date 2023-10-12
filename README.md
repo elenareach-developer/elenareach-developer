@@ -15,6 +15,7 @@
 
 <p>
 <img title="React" src="./assets/react.png" alt="react" height="35"/>
+<img title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" alt="angular" height="35">
 <img title="JavaScript" src="./assets/javascript.png" alt="javascript" height="40"/>
 <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
