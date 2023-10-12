@@ -1,6 +1,5 @@
-<a href="https://linkedin.com/in/Elena-Reach"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Elena-Reach" height="30" /></a>
-<a href="https://fb.com/volha.khviadchenia"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
-<a href="https://join.skype.com/invite/FBunP4Vq87S3"><img align="" src="https://img.shields.io/badge/skype-00AFF0?&style=for-the-badge&logo=skype&logoColor=white" alt="volha.khviadchenia" height="30" /></a>
+<a href="https://www.linkedin.com/in/elena-ryashchentseva-14757949/"><img align="" src="https://img.shields.io/badge/linkedin-2867B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Elena-Reach" height="30" /></a>
+<a href="https://www.facebook.com/elena.riachentseva"><img align="" src="https://img.shields.io/badge/facebook-4267B2?&style=for-the-badge&logo=facebook&logoColor=white" alt="Elena-Reach" height="30" /></a>
 <a href="https://t.me/elenareach"><img align="" src="https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logo=telegram&logoColor=white" alt="Elena Reach" height="30"/></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=elenareach&label=Profile%20views&color=0e75b6&style=flat" alt="elenareach" /> </p>
