@@ -36,6 +36,25 @@
 
 <i>At the moment I improve my React skills.</i> 💪
 
+### Elastic Search
+
+<table border="0">
+  <tr>
+    <th>Project description</th>
+    <th width="35%">Preview</th>
+  </tr>
+  <tr>
+    <td>
+    <p style="color: red"> Searching App using Elastic Search</p>
+    <p> <strong>Tools: Express.js, vanilla.js, Elastic Search, React.js</strong>
+      </p>
+    <p>The Vaccine Scheduler is a user-friendly web app for COVID-19 vaccine appointments. Register, schedule, and confirm appointments easily. Features include login, registration, date selection, location preference, and secure login for access.</p>
+    <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/elasticsearch">here</a></p>
+    </td>
+  </tr>
+</table>
+
 ### React Apps
 
 <table border="0">
