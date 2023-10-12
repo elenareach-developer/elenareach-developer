@@ -17,7 +17,6 @@
 <img title="JavaScript" src="./assets/javascript.png" alt="javascript" height="40"/>
 <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img title="Markdown" src="./assets/markdown.png" alt="markdown" height="40"/>
 </p>
 <p>
   <img title="React" src="./assets/react.png" alt="react" height="35"/>
