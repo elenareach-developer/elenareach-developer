@@ -17,17 +17,13 @@
 <img title="JavaScript" src="./assets/javascript.png" alt="javascript" height="40"/>
 <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img title="VisualStudio" src="./assets/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
+<img title="Webpack" src="./assets/1900px-webpack_logo.png" alt="webpack" width="40" height="40"/>
 </p>
 <p>
   <img title="React" src="./assets/react.png" alt="react" height="35"/>
   <img title="Angular" src="./assets/Angular.svg.png" alt="angular" height="35">
-</p>
-
-<p> 
-<img title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img title="VisualStudio" src="./assets/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
-<img title="Webpack" src="./assets/1900px-webpack_logo.png" alt="webpack" width="40" height="40"/>
-<img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 <p> 
 <img title="NodeJS" src="./assets/Node.js_logo.svg" alt="NodeJs" height="40"/>
