@@ -37,9 +37,9 @@
 +Flask" height="40"/>
 </p>
 <p> 
-<img title="MySQL" src="./assets/MySQL.png" alt="MySQL" width="40" height="40"/>
-<img title="PostgressSQL" src="./assets/postgressSQL.png" alt="PostgressSQL" width="40" height="40"/>
-<img title="MongoDB" src="./assets/mongoDB.png" alt="MongoDB" width="40" height="40"/>
+<img title="MySQL" src="./assets/MySQL.png" alt="MySQL" height="40"/>
+<img title="PostgressSQL" src="./assets/postgressSQL.png" alt="PostgressSQL"  height="40"/>
+<img title="MongoDB" src="./assets/mongoDB.png" alt="MongoDB" height="40"/>
 </p>
 
 ---
