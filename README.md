@@ -20,7 +20,7 @@
 </p>
 <p>
   <img title="React" src="./assets/react.png" alt="react" height="35"/>
-  <img title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" alt="angular" height="35">
+  <img title="Angular" src="./assets/Angular.svg.png" alt="angular" height="35">
 </p>
 
 <p> 
@@ -30,16 +30,16 @@
 <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 <p> 
-<img title="NodeJS" src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" alt="NodeJs" width="40" height="40"/>
-<img title="NodeJS+Express" src="https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.png" alt="vscode" width="40" height="40"/>
-<img title="Python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="bootstrap" width="40" height="40"/>
-<img title="Python+Flask" src="https://en.wikipedia.org/wiki/Flask_%28web_framework%29#/media/File:Flask_logo.svg" alt="webpack" width="40" height="40"/>
+<img title="NodeJS" src="./assets/Node.js_logo.svg" alt="NodeJs" height="40"/>
+<img title="NodeJS+Express" src="./assets/Expressjs.svg" alt="NodeJs+Express" height="40"/>
+<img title="Python" src="./assets/python.png" alt="Python" height="40"/>
+<img title="Python+Flask" src="https://en.wikipedia.org/wiki/Flask_%28web_framework%29#/media/File:Flask_logo.svg" alt="Python
++Flask" height="40"/>
 </p>
 <p> 
-<img title="MySQL" src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" alt="NodeJs" width="40" height="40"/>
-<img title="NodeJS+Express" src="https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.png" alt="vscode" width="40" height="40"/>
-<img title="Python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="bootstrap" width="40" height="40"/>
-<img title="Python+Flask" src="https://en.wikipedia.org/wiki/Flask_%28web_framework%29#/media/File:Flask_logo.svg" alt="webpack" width="40" height="40"/>
+<img title="MySQL" src="./assets/MySQL.png" alt="MySQL" width="40" height="40"/>
+<img title="PostgressSQL" src="./assets/postgressSQL.png" alt="PostgressSQL" width="40" height="40"/>
+<img title="MongoDB" src="./assets/mongoDB.png" alt="MongoDB" width="40" height="40"/>
 </p>
 
 ---
