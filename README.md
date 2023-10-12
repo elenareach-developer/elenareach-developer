@@ -14,12 +14,14 @@
 ### Skills
 
 <p>
-<img title="React" src="./assets/react.png" alt="react" height="35"/>
-<img title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" alt="angular" height="35">
 <img title="JavaScript" src="./assets/javascript.png" alt="javascript" height="40"/>
 <img title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img title="Markdown" src="./assets/markdown.png" alt="markdown" height="40"/>
+</p>
+<p>
+  <img title="React" src="./assets/react.png" alt="react" height="35"/>
+  <img title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" alt="angular" height="35">
 </p>
 
 <p> 
@@ -27,8 +29,19 @@
 <img title="VisualStudio" src="./assets/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
 <img title="Webpack" src="./assets/1900px-webpack_logo.png" alt="webpack" width="40" height="40"/>
 <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img title="PSDetch" src="./assets/psdetch.png" alt="psdetch" width="40" height="40"/></p>
+</p>
+<p> 
+<img title="NodeJS" src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" alt="NodeJs" width="40" height="40"/>
+<img title="NodeJS+Express" src="https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.png" alt="vscode" width="40" height="40"/>
+<img title="Python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="bootstrap" width="40" height="40"/>
+<img title="Python+Flask" src="https://en.wikipedia.org/wiki/Flask_%28web_framework%29#/media/File:Flask_logo.svg" alt="webpack" width="40" height="40"/>
+</p>
+<p> 
+<img title="MySQL" src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" alt="NodeJs" width="40" height="40"/>
+<img title="NodeJS+Express" src="https://miro.medium.com/v2/resize:fit:365/1*Jr3NFSKTfQWRUyjblBSKeg.png" alt="vscode" width="40" height="40"/>
+<img title="Python" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="bootstrap" width="40" height="40"/>
+<img title="Python+Flask" src="https://en.wikipedia.org/wiki/Flask_%28web_framework%29#/media/File:Flask_logo.svg" alt="webpack" width="40" height="40"/>
+</p>
 
 ---
 
