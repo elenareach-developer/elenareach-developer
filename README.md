@@ -40,10 +40,6 @@
 
 <table border="0">
   <tr>
-    <th>Project description</th>
-    <th width="35%">Preview</th>
-  </tr>
-  <tr>
     <td>
     <p style="color: red"> Searching App using Elastic Search</p>
     <p> <strong>Tools: Express.js, vanilla.js, Elastic Search, React.js</strong>
