@@ -6,8 +6,9 @@
 
 # Elena Reach
 
-<p>Over the last two years, I've dedicated significant time and effort to web development. 💻 Initially, I pursued self-study in HTML, CSS, and JavaScript. In September 2020, I enrolled in the <a href="https://rs.school/poland/?target=_blank">Rolling Scopes School</a> courses, and I successfully completed the program within six months, ranking among the top 300 students. 🎉 These courses not only deepened my theoretical knowledge of HTML, CSS, and JavaScript but also sharpened my practical skills through extensive hands-on exercises. I've since ventured into exploring the React library, along with its companions Redux, Hooks, and React Router.</p>
-<p>Currently, I consider myself a junior front-end developer specializing in React. I'm actively seeking opportunities in Wrocław or remote positions. For potential job opportunities in Poland, it's worth noting that I hold a Karta Polaka. Please don't hesitate to get in touch if you have any questions or opportunities to discuss. 🙌</p>
+<p>
+ As a senior Full Stack Developer, I have completed numerous tasks, apps, and assignments. I never thought about creating my own portfolio until now when I realized that some companies have disappeared or launched new products. I am currently presenting the work I've done during this summer when I started working as a Senior Full Stack Developer and instructor at CodePath.
+</p>
 
 ---
 
