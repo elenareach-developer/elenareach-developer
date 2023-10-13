@@ -43,7 +43,7 @@
 
 ### My projects
 
-<i>At the moment I improve my React skills.</i> 💪
+<i>At the moment I improve my React, Angular, ElasticSearch and AWS skills.</i> 💪
 
 ### Elastic Search
 
