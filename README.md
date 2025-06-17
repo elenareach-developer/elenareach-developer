@@ -77,18 +77,16 @@ It also boasts a sophisticated "Search as You Type" feature to provide users wit
       </p>
     <p>The Vaccine Scheduler is a user-friendly web app for COVID-19 vaccine appointments. Register, schedule, and confirm appointments easily. Features include login, registration, date selection, location preference, and secure login for access.</p>
     <p>The index.html file is empty, all elements are generated via JavaScript. The application is displayed correctly both on desktop and on mobile devices.</p>
-      <p>You can find the code <a href="https://github.com/elenareach-developer/vaccsine">here</a>. Deploy is <a href="https://elenareach-developer.github.io/vaccsine/">here</a> or you can click on the image on the right.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/vaccsine">here</a></p>
     </td>
     <td>
-      <a href="https://elenareach-developer.github.io/vaccsine/">
       <img src ="./assets/vaccine.png"></a>
     </td>
   </tr>
     <tr>
     <td>
-    <p style="color: red">Anime Reading Dashboard for Kids</p>
+    <p style="color: red">Reading Dashboard for Kids</p>
       
-      <h1>📚 Anime Reading Dashboard for Kids</h1>
 <p>A vibrant, child-friendly dashboard built with shadcn/ui, React, and Tailwind CSS. Designed to help kids track their reading progress in a fun and visual way.
       </p>
 <h3>✨ Features</h3>
@@ -109,27 +107,9 @@ It also boasts a sophisticated "Search as You Type" feature to provide users wit
       <p>You can find the code <a href="https://github.com/elenareach-developer/little_reader">here</a>. </p>
     </td>
     <td>
-      <a href="https://github.com/elenareach-developer/little_reader">
         <img src ="./assets/littele_reader.png">
-      </a>
     </td>
     </tr>
-    <tr>
-      <td>
-      <p style="color: red">Portfolio Website</p>
-      <p>
-        <strong>Tools: vanilla JS, pure HTML/CSS</strong>
-      </p>
-      <p>The <strong>Elena Reach - Software Engineer Portfolio</strong> showcases Elena Reach's professional journey, projects, and technical skills. It highlights her expertise in React, Vue, Node and Elastic Search</p>
-<p>Discover Elena's software engineering expertise.</p>
-      <p>You can find the code <a href="https://github.com/elenareach-developer/portfolio-vite">here</a>. Deploy is <a href="https://elenareach-developer.github.io/portfolio-vite/">here</a> or you can click on the image below.</p>
-    </td>
-    <td>
-      <a href="https://elenareach-developer.github.io/portfolio-vite/">
-        <img src ="./assets/portfolio.png">
-      </a>
-    </td>
-  </tr>
    <tr>
       <td>
       <p style="color: red">E-Commerce Store</p>
@@ -137,12 +117,10 @@ It also boasts a sophisticated "Search as You Type" feature to provide users wit
         <strong>Tools: React,Veet, vanilla JS, pure HTML/CSS</strong>
       </p>
      <p>The <strong>Online Store</strong> is your convenient e-commerce destination. Explore a wide range of products and enjoy exclusive offers. Shop from a diverse selection, easily manage your cart, and reach out to us for support or inquiries. Experience hassle-free online shopping at the Online Store!</p>
-      <p>You can find the code <a href="https://github.com/elenareach-developer/student-store">here</a>. Deploy is <a href="https://elenareach-developer.github.io/student-store/">here</a> or you can click on the image below.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/student-store">here</a>.</p>
     </td>
     <td>
-      <a href="https://elenareach-developer.github.io/student-store/">
         <img src ="./assets/student-store.png">
-      </a>
     </td>
   </tr>
  <tr>
@@ -154,7 +132,7 @@ It also boasts a sophisticated "Search as You Type" feature to provide users wit
    <p>Explore React development with this interactive showcase:</p>
 <p>1. Layout, Navigation, Hooks, Counting, State Updates, Quizzes - Enhance your React skills.</p>
 <p>Perfect for developers looking to level up their React game.</p>
-      <p>You can find the code <a href="https://github.com/elenareach-developer/useState-react">here</a>. Deploy is <a href="https://elenareach-developer.github.io/useState-react/">here</a> or you can click on the image below.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/useState-react">here</a>.</p>
     </td>
     <td>
       <a href="https://elenareach-developer.github.io/useState-react/">
@@ -170,12 +148,10 @@ It also boasts a sophisticated "Search as You Type" feature to provide users wit
       </p>
      <p>The "Dynamic Number Generator" is a user-friendly web app for uploading PDF files, displaying dynamic numbers, and user control.</p>
 <p>Upload PDFs, see real-time numbers, and manage auto-generation with Start and Stop buttons. It's a practical tool for various tasks.</p>
-      <p>You can find the code <a href="https://github.com/elenareach-developer/randomButtons---react">here</a>. Deploy is <a href="https://elenareach-developer.github.io/randomButtons---react/">here</a> or you can click on the image below.</p>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/randomButtons---react">here</a>.</p>
     </td>
     <td>
-      <a href="https://elenareach-developer.github.io/randomButtons---react/">
         <img src ="./assets/randomButtons.png">
-      </a>
     </td>
   </tr>
 </table>
@@ -194,11 +170,10 @@ It also boasts a sophisticated "Search as You Type" feature to provide users wit
       </p>
     <p>The "Data Dashboard and Reporting" website offers easy navigation and a range of features for accessing and managing data.</p>
 <p>Explore order, customer, and integration sections, view current month and last quarter data, and dive into year-end sale statistics.</p>
-    <p>You can find the code <a href="https://github.com/elenareach-developer/Helsinkicitybike">here</a>. Deploy is <a href="https://elenareach-developer.github.io/Helsinkicitybike/">here</a> or you can click on the image on the right.</p>
+    <p>You can find the code <a href="https://github.com/elenareach-developer/Helsinkicitybike">here</a>.</p>
     </td>
     <td>
-      <a href="https://elenareach-developer.github.io/Helsinkicitybike/">
-      <img src ="./assets/Helsinkicitybike.png"></a>
+      <img src ="./assets/Helsinkicitybike.png">
     </td>
   </tr>
   <tr>
@@ -208,11 +183,10 @@ It also boasts a sophisticated "Search as You Type" feature to provide users wit
       </p>
     <p>The "Samantha He - Software Developer Portfolio" is a comprehensive online showcase that provides insight into Samantha He's professional journey as a software developer.</p>
 <p>Explore her diverse experiences and notable work in mobile app design, web design, and product design. Connect with Samantha to learn more about her contributions to the tech world.</p>
-    <p>You can find the code <a href="https://github.com/elenareach/site-week1-lab1-personal-website-exemplar">here</a>. Deploy is <a href="https://elenareach.github.io/site-week1-lab1-personal-website-exemplar/index.html">here</a> or you can click on the image on the right.</p>
+    <p>You can find the code <a href="https://github.com/elenareach/site-week1-lab1-personal-website-exemplar">here</a>.</p>
     </td>
     <td>
-      <a href="https://elenareach.github.io/site-week1-lab1-personal-website-exemplar/index.html">
-      <img src ="./assets/simplehtml.png"></a>
+      <img src ="./assets/simplehtml.png" />
     </td>
   </tr>
    </table>
