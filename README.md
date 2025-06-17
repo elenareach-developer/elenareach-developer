@@ -86,12 +86,9 @@ It also boasts a sophisticated "Search as You Type" feature to provide users wit
   </tr>
     <tr>
     <td>
-    <p style="color: red">Life Tracker</p>
-      <p>
-        <strong>Tools: React.js, Vite.js vanilla.js, CSS-Variables, JS-Classes, JS-Destructuring</strong>
-      </p>
-
-      <h1>📚 Anime Reading Dashboard for Kids<h1>
+    <p style="color: red">Anime Reading Dashboard for Kids</p>
+      
+      <h1>📚 Anime Reading Dashboard for Kids</h1>
 <p>A vibrant, child-friendly dashboard built with shadcn/ui, React, and Tailwind CSS. Designed to help kids track their reading progress in a fun and visual way.
       </p>
 <h3>✨ Features</h3>
@@ -113,7 +110,7 @@ It also boasts a sophisticated "Search as You Type" feature to provide users wit
     </td>
     <td>
       <a href="https://github.com/elenareach-developer/little_reader">
-        <img src ="./assets/lifetracker.png">
+        <img src ="./assets/littele_reader.png">
       </a>
     </td>
     </tr>
