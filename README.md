@@ -90,13 +90,29 @@ It also boasts a sophisticated "Search as You Type" feature to provide users wit
       <p>
         <strong>Tools: React.js, Vite.js vanilla.js, CSS-Variables, JS-Classes, JS-Destructuring</strong>
       </p>
-<p>"LifeTracker" - Your Health Companion</p>
-<p>Stay active and healthy with our fitness devices. Register, log in, and explore the world of health and fitness. Contact us for inquiries.</p>
-      <p>The "LifeTracker" website is your destination for health and fitness. It offers various devices, encourages an active lifestyle, and features a trusted CodePath logo. Log in, register, and stay fit with advanced technology.</p>
-      <p>You can find the code <a href="https://github.com/elenareach-developer/lifetracker">here</a>. Deploy is <a href="https://elenareach-developer.github.io/lifetracker/">here</a> or you can click on the image on the right.</p>
+
+      <h1>📚 Anime Reading Dashboard for Kids<h1>
+<p>A vibrant, child-friendly dashboard built with shadcn/ui, React, and Tailwind CSS. Designed to help kids track their reading progress in a fun and visual way.
+      </p>
+<h3>✨ Features</h3>
+<ul>
+   <li>📈 Reading Chart: View reading activity over the past 7 days (pages per day).</li>
+   <li>🚀 Reading Speed: Displays reading speed in words per minute (WPM).</li>
+   <li>📚 Book Difficulty: Shows a 5-star rating for the complexity of books read.</li>
+   <li>🏆 Rewards Section: Motivates kids with sticker-like achievements for consistent reading.</li>
+</ul>
+
+<h3>📦 Tech Stack</h3>
+<ul>
+   <li>React</li>
+   <li>TypeScript</li>
+   <li>Tailwind CSS</li>
+   <li>shadcn/ui.</li>
+<ul>
+      <p>You can find the code <a href="https://github.com/elenareach-developer/little_reader">here</a>. </p>
     </td>
     <td>
-      <a href="https://elenareach-developer.github.io/lifetracker/">
+      <a href="https://github.com/elenareach-developer/little_reader">
         <img src ="./assets/lifetracker.png">
       </a>
     </td>
